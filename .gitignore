@@ -1,0 +1,6 @@
+.env
+responses/
+venv/
+realkeys.txt
+league2/
+logs/
